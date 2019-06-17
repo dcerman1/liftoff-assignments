@@ -7,11 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app, NativePlantsMO, will serve as a resource for local home gardeners looking to incorporate native plants in their landscaping.
+Missouri native plants are well adapted to our extreme weather and provide food and shelter for important wildlife such as birds, bees, butterflies and insects.
+A garden planted with Missouri natives is a sustainable landscape which will become easier to care for as it matures and will save you money on water, fertilizer, pesticides and labor.
+
+NativePlantsMO will showcase 50 top performing native plants. Each plant in the database will have an image, description, growing conditions and helpful notes.
+Users will be able to search the database according to the following filters: sun, moisture and soil.
+
+This idea emerged out of my own interest in native plants and the lack of user friendly, comprehensive databases to discover such plants.
+Often lists are in PDF forms, or are on websites that have a poor user interface or the search function is limited.
+Ultimately, users will be able to user my app as a one stop shop for top performing MO native plants.
+
+
 ### Features
-Include Features here
+1. User Login
+2. Search Database & Filter Results & Save Plants
+3. High Quality Front End User Experience
+
+
 ### Technologies
-Include Technologies here
+Java, MySQL, SpringBoot
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to deepen my skills in Java and I may also have to learn javascript to ensure a high quality front end user experience.
